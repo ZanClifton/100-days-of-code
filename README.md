@@ -18,3 +18,16 @@ Instructions for creating your own log to run locally can be found [here](https:
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/100-days-of-code/tree/main/log) | [Replit](https://replit.com/@ZanClifton/my-100-days-of-code-1?v=1) |
 
+#
+
+### Day 2: Oct 9, Sunday
+
+<img src="https://github.com/ZanClifton/basic-python-projects/blob/main/images/poll.png" width=400px align=right alt="Poll"/>
+
+**Activity:** Added type hinting to my poll project
+
+**Thoughts:** It was fun, but frustrating as I was frequently interrupted and didn't get to do more. Type hinting is a great way to catch errors though and although the syntax looks a little weird in comparison to TypeScript I suppose it's just what I'm used to.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/basic-python-projects/tree/main/27-poll) | [Replit](https://replit.com/@ZanClifton/poll?v=1) |
