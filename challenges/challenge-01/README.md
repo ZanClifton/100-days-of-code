@@ -1,4 +1,4 @@
-<img src="https://github.com/ZanClifton/100-days-of-code/blob/master/100-days-code.png" width=250px align=right alt="100 Days of Code"/>
+<img src="https://github.com/ZanClifton/100-days-of-code/blob/main/images/100-days-code.png" width=250px align=right alt="100 Days of Code"/>
 
 # 100 Days of Code x1
 
