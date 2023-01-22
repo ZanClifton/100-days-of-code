@@ -1,8 +1,8 @@
+<img src="https://github.com/ZanClifton/100-days-of-code/blob/master/100-days-code.png" width=250px align=right alt="100 Days of Code"/>
+
 # 100 Days of Code x1
 
 ## 48 Days of Code, Really
-
-<img src="https://github.com/ZanClifton/100-days-of-code/blob/master/100-days-code.png" width=250px align=right alt="100 Days of Code"/>
 
 My first attempt at 100 Days of Code was interrupted by sickness, holiday, and then things getting hectic at work. I made it to 48 days and then lost track of what work I'd done as I began filling in the log sporadically.
 
