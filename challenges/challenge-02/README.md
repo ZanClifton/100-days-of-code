@@ -2,7 +2,7 @@
 
 # 100 Days of Code x2
 
-### Day 1: Jan 22 2023, Saturday
+### Day 1: Jan 22 2023, Sunday
 
 <img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/snek.png" width=225px align=left alt="Snake Game Over screen"/>
 
@@ -15,3 +15,25 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/02-snek) | [Replit](https://replit.com/@ZanClifton/snek?v=1) |
 
 #
+
+### Day 2: Jan 23 2023, Monday
+
+**Activity:** Pong
+
+**Thoughts:** Created a screen, two paddles, and a ball for Pong. At the moment, you can't press and hold the paddle keys, expecting movement to continue, as the second key press interrupts the first. Although that might not matter so much as you'll only really move your paddle when you know where the ball is travelling towards you, probably.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/03-pong) | [Replit](https://replit.com/@ZanClifton/pong?v=1) |
+
+#
+
+### Day 3: Jan 24 2023, Tuesday
+
+**Activity:** Pong
+
+**Thoughts:** Not time for much this morning. Added the bounce method to the Ball class to get it to change direction when it strikes the top or bottom of the screen. Sadly that's probably it for the day, but something is better than nothing, I guess.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/03-pong) | [Replit](https://replit.com/@ZanClifton/pong?v=1) |
