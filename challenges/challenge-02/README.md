@@ -16,6 +16,8 @@
 
 #
 
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/pong.png" width=250px align=right alt="Pong game in progress"/>
+
 ### Day 2: Jan 23 2023, Monday
 
 **Activity:** Pong
@@ -41,8 +43,6 @@
 #
 
 ### Day 4: Jan 25 2023, Wednesday
-
-<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/pong.png" width=225px align=right alt="Snake Game Over screen"/>
 
 **Activity:** Pong
 
