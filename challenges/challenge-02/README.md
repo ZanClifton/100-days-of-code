@@ -37,3 +37,19 @@
 | Project Repo | Project Demo |
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/03-pong) | [Replit](https://replit.com/@ZanClifton/pong?v=1) |
+
+#
+
+### Day 4: Jan 25 2023, Wednesday
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/pong.png" width=225px align=right alt="Snake Game Over screen"/>
+
+**Activity:** Pong
+
+**Thoughts:** I finished up the game but am a little disappointed about some of the functionality. Holding a move key down for a paddle seems to prevent the other player from moving their own paddle, as can queuing up a whole bunch of key presses (I think this is to do with the `time.sleep` command for refreshing the screen and is therefore a quirk of the way it combines with the Turtle module). Happy it's done, though, and it's even kind of fun playing yourself. 
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/03-pong) | [Replit](https://replit.com/@ZanClifton/pong?v=1) |
+
+#
