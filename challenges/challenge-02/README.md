@@ -42,6 +42,8 @@
 
 #
 
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/turtle-crossing.png" width=250px align=right alt="Turtle Crossing"/>
+
 ### Day 4: Jan 25 2023, Wednesday
 
 **Activity:** Pong
@@ -51,5 +53,17 @@
 | Project Repo | Project Demo |
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/03-pong) | [Replit](https://replit.com/@ZanClifton/pong?v=1) |
+
+#
+
+### Day 5: Jan 28 2023, Saturday
+
+**Activity:** Turtle Crossing
+
+**Thoughts:** Put together 'Turtle Crossing', an absolute knock off of Crossy Road made with Python and the Turtle module and of course the graphics are atrocious. It's also buggy as hell in Replit, which is super annoying. I've always found Replit to be pretty reliable till now but it's not always resetting the turtle to the bottom of the screen. Not happy about it. Although a thought has just occurred to me! It might be to do with holding down the up arrow key meaning the turtle skips across the reset point. I'll make a note and refactor it sometime this week coming.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/04-turtle-crossing) | [Replit](https://replit.com/@ZanClifton/turtle-crossing?v=1) |
 
 #
