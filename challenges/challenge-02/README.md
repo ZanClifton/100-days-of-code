@@ -42,8 +42,6 @@
 
 #
 
-<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/turtle-crossing.png" width=250px align=right alt="Turtle Crossing"/>
-
 ### Day 4: Jan 25 2023, Wednesday
 
 **Activity:** Pong
@@ -81,5 +79,19 @@
 | Project Repo | Project Demo |
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/02-snek) | [Replit](https://replit.com/@ZanClifton/snek?v=1) |
+
+#
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/mail-merge.png" width=300px align=right alt="Mail Merge"/>
+
+### Day 7: Jan 30 2023, Monday
+
+**Activity:** Mail Merge
+
+**Thoughts:** Using the [readlines](https://www.w3schools.com/python/ref_file_readlines.asp), [replace](https://www.w3schools.com/python/ref_string_replace.asp) and [strip](https://www.w3schools.com/python/ref_string_strip.asp) methods, I used a list of names and a pre-written letter to create a mail merge. The list and the letter were in separate files and needed to be combined, then each personally addressed letter written to its own file named after the recipient. This was a pleasant and methodical task, and although I've done more complex things already (perhaps my Python + SQL projects shouldn't have been put in with the 'basic' projects and I should probably separate them out) it's good to revise the fundamentals.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/05-mail-merge) | None |
 
 #
