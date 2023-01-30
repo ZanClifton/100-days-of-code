@@ -56,6 +56,8 @@
 
 #
 
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/turtle-crossing.png" width=250px align=right alt="Turtle Crossing"/>
+
 ### Day 5: Jan 28 2023, Saturday
 
 **Activity:** Turtle Crossing
@@ -65,5 +67,19 @@
 | Project Repo | Project Demo |
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/04-turtle-crossing) | [Replit](https://replit.com/@ZanClifton/turtle-crossing?v=1) |
+
+#
+
+<img src="https://user-images.githubusercontent.com/96394256/215429243-62e18aa4-b998-4477-81f6-e436a7e4a667.png" width=250px align=left alt="Snek"/>
+
+### Day 6: Jan 29 2023, Sunday
+
+**Activity:** Snek
+
+**Thoughts:** Added a high score to Snek and made it so the high score is written to, and retrieved from,  a text file each time the game is played. There's also no game over message any more; the game continually loops. I'm pretty happy with that.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/02-snek) | [Replit](https://replit.com/@ZanClifton/snek?v=1) |
 
 #
