@@ -116,6 +116,8 @@
 
 **Thoughts:** I worked on [list comprehension](https://realpython.com/list-comprehension-python/) and did some exercises to cement my understanding. This is a wonderful example of [syntactic sugar](https://medium.com/analytics-vidhya/syntactic-sugar-in-python-3e61d1ef2bbf) and is probably my favourite thing in Python to date. Python is a sexy beast of a language. I then refactored a little bit of code from the US States Game to take advantage of it. I love it!
 
+![image](https://user-images.githubusercontent.com/96394256/217489475-a8d9b41b-5da8-4a38-ba39-340e86a189a2.png)
+
 | Project Repo | Project Demo |
 |:-------------|:-------------|
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/06-us-states) | [Replit](https://replit.com/@ZanClifton/us-states?v=1) |
