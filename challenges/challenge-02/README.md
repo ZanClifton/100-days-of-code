@@ -95,3 +95,29 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/05-mail-merge) | None |
 
 #
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/us-states.png" width=400px align=right alt="US States Game"/>
+
+### Day 8: Feb 05 2023, Sunday
+
+**Activity:** US States Game
+
+**Thoughts:** Turtle is back, and with it, the pandas library. I did a little bit of playing around with it yesterday, but not really with any particular focus or project in mind, but today, I used the pandas library to read a csv file for the data in my game, and quickly put together a game that fills in a US map with the names of the States. I abstracted some of the code out to a separate class (which now, finally, feels completely natural) and the whole thing came together with much less effort than I expected.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/06-us-states) | [Replit](https://replit.com/@ZanClifton/us-states?v=1) |
+
+#
+
+### Day 9: Feb 08 2023, Wednesday
+
+**Activity:** List Comprehension and the US States Game
+
+**Thoughts:** I worked on [list comprehension](https://realpython.com/list-comprehension-python/) and did some exercises to cement my understanding. This is a wonderful example of [syntactic sugar](https://medium.com/analytics-vidhya/syntactic-sugar-in-python-3e61d1ef2bbf) and is probably my favourite thing in Python to date. Python is a sexy beast of a language. I then refactored a little bit of code from the US States Game to take advantage of it. I love it!
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/06-us-states) | [Replit](https://replit.com/@ZanClifton/us-states?v=1) |
+
+#
