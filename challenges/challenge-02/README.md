@@ -123,3 +123,31 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/06-us-states) | [Replit](https://replit.com/@ZanClifton/us-states?v=1) |
 
 #
+
+### Day 9: Feb 10 2023, Friday
+
+**Activity:** Dictionary Comprehension
+
+**Thoughts:** Dictionary comprehension is just as lovely as list comprehension. 
+
+![image](https://user-images.githubusercontent.com/96394256/218272535-fca23105-0217-484b-9351-8225f018552a.png)
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/07-nato-alphabet-translator) | [Replit](https://replit.com/@ZanClifton/nato-alphabet-translator?v=1) |
+
+#
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/nato-alphabet-translator.png" width=400px align=right alt="Nato Phonetic Alphabet Translator"/>
+
+### Day 11: Feb 11 2023, Saturday
+
+**Activity:** Nato Phonetic Alphabet Translator
+
+**Thoughts:** Used a little dictionary comprehension with a for loop to create a program that'll take a word and give you the phonetic code for it. 
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/07-nato-alphabet-translator) | [Replit](https://replit.com/@ZanClifton/nato-alphabet-translator?v=1) |
+
+#
