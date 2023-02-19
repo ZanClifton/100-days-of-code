@@ -152,7 +152,7 @@
 
 #
 
-<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/nato-alphabet-translator.png" width=400px align=right alt="Nato Phonetic Alphabet Translator"/>
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/miles-to-km.png" width=400px align=right alt="Miles to Km Converter"/>
 
 ### Day 12: Feb 19 2023, Sunday
 
