@@ -2,7 +2,7 @@
 
 # 100 Days Of Code Log
 
-### My attempts at this challenge
+### My attempts at the 100 Days of Code challenge
 - [100 (ahem, 48) Days of Code Challenge 1](https://github.com/ZanClifton/100-days-of-code/blob/main/challenges/challenge-01/README.md)
 - [100 Days of Code Challenge 2](https://github.com/ZanClifton/100-days-of-code/blob/main/challenges/challenge-02/README.md)
 
