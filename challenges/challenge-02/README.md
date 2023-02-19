@@ -151,3 +151,17 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/07-nato-alphabet-translator) | [Replit](https://replit.com/@ZanClifton/nato-alphabet-translator?v=1) |
 
 #
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/images/nato-alphabet-translator.png" width=400px align=right alt="Nato Phonetic Alphabet Translator"/>
+
+### Day 12: Feb 19 2023, Sunday
+
+**Activity:** Miles to Km Converter
+
+**Thoughts:** Messed around on and off with the Tkinter module for most of the week, but didn't produce an actual project until today. It converts miles (floating point number) into kilometers (also a float with 2 decimal places). The maths and code isn't hard, but the syntax for Tkinter isn't hugely intuitive and it employs classes with *args and **kwargs, which is the first time I've come across this. For the first time in a while I decided I needed to keep references for how these things work for later.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/08-miles-to-km) | [Replit](https://replit.com/@ZanClifton/miles-to-km?v=1) |
+
+#
