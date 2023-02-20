@@ -165,3 +165,17 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/08-miles-to-km) | [Replit](https://replit.com/@ZanClifton/miles-to-km?v=1) |
 
 #
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/09-pomodoro/tomato.png" width=200px align=right alt="Pomodoro"/>
+
+### Day 13: Feb 20 2023, Monday
+
+**Activity:** Pomodoro
+
+**Thoughts:** Created the user interface for a pomodoro timer, but none of the functionality as yet. I worry that I'm way too slow at things when it takes me an hour to put something like this together. It's kind of exciting to see the interface building up from a blank window, though. I think I'm getting the hang of various commands now, but finding some of the more obscure kwargs is a challenge.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|i
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/09-pomodoro) | Not yet! Patience, young padawan! |
+
+#
