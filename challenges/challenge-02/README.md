@@ -179,3 +179,17 @@
 | [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/09-pomodoro) | Not yet! Patience, young padawan! |
 
 #
+
+<img src="https://github.com/ZanClifton/intermediate-python-projects/blob/main/09-pomodoro/tomato.png" width=200px align=right alt="Pomodoro"/>
+
+### Day 14: Feb 21 2023, Tuesday
+
+**Activity:** Pomodoro
+
+**Thoughts:** Got some of the functionality working. In fact, I'm almost there, really. I now have a working timer that displays the time nicely, counts down properly, and switches between breaks and work seamlessly on an infinite loop. Just need to add a reset button and the checkmarks that show which iteration you're in and it should be done. I still think there's more fun to be had with Tkinter. Gonna have to do a couple more projects with it.
+
+| Project Repo | Project Demo |
+|:-------------|:-------------|
+| [GitHub](https://github.com/ZanClifton/intermediate-python-projects/tree/main/09-pomodoro) | Not yet! Patience, young padawan! |
+
+#
